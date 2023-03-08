@@ -3,6 +3,7 @@
         {
             "nome": "5 Barrel Pale Ale",
             "fabricante": "Odell Brewing Company",
+            "website": "https://www.odellbrewing.com/",
             "img": "https://raw.githubusercontent.com/Tiagocys/malte/main/5%20Barrel%20Pale%20Ale.png",
             "país": "Estados Unidos",
             "lançamento": "1994",
